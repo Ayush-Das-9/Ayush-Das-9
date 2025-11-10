@@ -1,130 +1,116 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/0e0e0e0e-0e0e-0e0e-0e0e-0e0e0e0e0e0e">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,10,12,14,16,18,20,22,24,26,28,30&height=300&section=header&text=🚀%20DATA%20COSMOS%20EXPLORER%20🌌&fontSize=42&fontAlignY=58&animation=twinkling&fontColor=ffffff&rotate=0" alt="Cosmic Header">
-  </picture>
 
-  <br/>
+<!-- Quantum Flux Header -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10,12,14,16,18,20&height=300&section=header&text=QUANTUM%20DATA%20VOIDWALKER&fontSize=42&fontAlignY=58&animation=twinkling&fontColor=fff">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10,12,14,16,18,20&height=300&section=header&text=QUANTUM%20DATA%20VOIDWALKER&fontSize=42&fontAlignY=58&animation=twinkling&fontColor=fff" alt="Header">
+</picture>
 
-  <!-- Neon Glow Name -->
-  <h1 style="background: linear-gradient(90deg, #ff00cc, #3333ff, #00ffcc, #ffff33); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 5rem; text-shadow: 0 0 20px rgba(255,255,255,0.8), 0 0 40px #00ffff, 0 0 60px #ff00ff; animation: pulse 2s infinite;">
-    𝙳𝙰𝚃𝙰 𝚂𝙾𝚁𝙲𝙴𝚁𝙴𝚁 ⚡
-  </h1>
+<br/>
 
-  <!-- Floating Badges in Orbit -->
-  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
-    <img src="https://img.shields.io/badge/🧠%20Neural%20Nomad-FF1493?style=for-the-badge&logo=brain&logoColor=white&labelColor=1a0033" alt="Neural Nomad"/>
-    <img src="https://img.shields.io/badge/🌌%20Quantum%20Learner-00FFFF?style=for-the-badge&logo=atom&logoColor=black&labelColor=000033" alt="Quantum Learner"/>
-    <img src="https://img.shields.io/badge/🪐%20Pandas%20Planet-FFD700?style=for-the-badge&logo=pandas&logoColor=black&labelColor=330033" alt="Pandas Planet"/>
-    <img src="https://img.shields.io/badge/⚡%20TensorFlow%20Titan-FF4500?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=001133" alt="TensorFlow Titan"/>
-    <img src="https://img.shields.io/badge/🌠%20Scikit%20Sorcerer-8A2BE2?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=220033" alt="Scikit Sorcerer"/>
-  </div>
+<!-- Void-Echo Name -->
+<h1 style="background:linear-gradient(90deg,#8a2be2,#ff1493,#00ff7f,#ffd700,#ff4500);-webkit-background-clip:text;-webkit-text-fill-color:transparent;font-size:4.5rem;text-shadow:0 0 25px rgba(255,255,255,.9),0 0 50px #8a2be2,0 0 75px #ff1493;animation:quantum 3s infinite;">
+  𝚀𝚄𝙰𝙽𝚃𝚄𝙼 𝚅𝙾𝙸𝙳𝚆𝙰𝙻𝙺𝙴𝚁 🌀
+</h1>
 
-  <!-- Cosmic Status -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ayush-Das-9&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&show_icons=true&count_private=true&include_all_commits=true&custom_title=🌌%20Cosmic%20Code%20Constellation&border_radius=15">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Das-9&theme=gruvbox&hide_border=true&bg_color=282828&title_color=fabd2f&text_color=ebdbb2&icon_color=a89984&show_icons=true&count_private=true&include_all_commits=true&custom_title=🌌%20Cosmic%20Code%20Constellation&border_radius=15" height="195" alt="stats graph" />
-  </picture>
+<br/>
 
-  <!-- Streak in Another Dimension -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Das-9&theme=react&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff80bf&currStreakNum=8b949e&sideNums=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&border_radius=15">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Das-9&theme=gruvbox&hide_border=true&background=282828&stroke=7c6f64&ring=fabd2f&fire=fe8019&currStreakNum=ebdbb2&sideNums=a89984&currStreakLabel=fabd2f&sideLabels=ebdbb2&dates=928374&border_radius=15" height="195" alt="streak graph" />
-  </picture>
+<!-- Skill Line 1: Echoes from the Abyss -->
+<p style="font-size:1.4rem;color:#fff;animation:echo 1.5s infinite;">
+  Python <img src="https://techstack-generator.vercel.app/python-icon.svg" width="28"/> 
+  Machine Learning <img src="https://techstack-generator.vercel.app/ml-icon.svg" width="28"/> 
+  Deep Learning <img src="https://techstack-generator.vercel.app/dl-icon.svg" width="28"/>
+</p>
 
-  <br/>
+<!-- Skill Line 2: Fractal Visions -->
+<p style="font-size:1.4rem;color:#fff;animation:echo 1.5s infinite 0.5s;">
+  Data Visualization <img src="https://techstack-generator.vercel.app/plotly-icon.svg" width="28"/> 
+  Big Data <img src="https://techstack-generator.vercel.app/spark-icon.svg" width="28"/> 
+  NLP <img src="https://techstack-generator.vercel.app/nlp-icon.svg" width="28"/>
+</p>
 
-  <!-- Holographic Skills Matrix -->
-  <div style="background: linear-gradient(135deg, rgba(0,255,255,0.1), rgba(255,0,255,0.1)); padding: 25px; border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); backdrop-filter: blur(10px); box-shadow: 0 0 30px rgba(0,255,255,0.5); margin: 30px 0;">
-    <h2 style="color: #00ffff; text-shadow: 0 0 10px #00ffff; text-align: center;">🛸 <em>Interdimensional Skill Matrix</em> 🛸</h2>
-    <br/>
-    <pre style="color: #ff00ff; font-family: 'Courier New', monospace; text-shadow: 0 0 5px #ff00ff;">
-   ███████╗██╗  ██╗██╗██╗     ██╗     ███████╗
-   ██╔════╝██║  ██║██║██║     ██║     ██╔════╝
-   ███████╗███████║██║██║     ██║     ███████╗
-   ╚════██║██╔══██║██║██║     ██║     ╚════██║
-   ███████║██║  ██║██║███████╗███████╗███████║
-   ╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝
-    </pre>
-    <p style="text-align: center; color: #ffffff; font-size: 1.2rem;">
-      <strong>Python</strong> 🌊 <strong>Machine Learning</strong> 🤖 <strong>Deep Learning</strong> 🧬 
-      <br/>
-      <strong>Data Visualization</strong> 📊 <strong>Big Data</strong> 🌋 <strong>NLP</strong> 🗣️ 
-      <br/>
-      <strong>Computer Vision</strong> 👁️ <strong>Time Series</strong> ⏳ <strong>Reinforcement Learning</strong> 🎮
-    </p>
-  </div>
+<!-- Skill Line 3: Temporal Rifts -->
+<p style="font-size:1.4rem;color:#fff;animation:echo 1.5s infinite 1s;">
+  Computer Vision <img src="https://techstack-generator.vercel.app/opencv-icon.svg" width="28"/> 
+  Time Series <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="28"/> 
+  Reinforcement Learning <img src="https://techstack-generator.vercel.app/rl-icon.svg" width="28"/>
+</p>
 
-  <!-- Floating Tech Stack -->
-  <div align="center">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/pytorch-icon.svg" alt="PyTorch" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/tf-icon.svg" alt="TensorFlow" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-  </div>
+<br/>
 
-  <br/>
+<!-- Orbital Tech Relics -->
+<p>
+  <img src="https://techstack-generator.vercel.app/pytorch-icon.svg" width="55" style="filter: hue-rotate(180deg);"/>  
+  <img src="https://techstack-generator.vercel.app/tf-icon.svg" width="55" style="filter: hue-rotate(240deg);"/>  
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" style="filter: hue-rotate(300deg);"/>  
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="55" style="filter: hue-rotate(60deg);"/>  
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" style="filter: hue-rotate(120deg);"/>  
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="55" style="filter: hue-rotate(180deg);"/>  
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" style="filter: hue-rotate(240deg);"/>
+</p>
 
-  <!-- Cosmic Trophy Case -->
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ayush-Das-9&theme=onestar&no-frame=true&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" height="180"/>
-  </div>
+<br/>
 
-  <!-- Nebula Quote -->
-  <blockquote style="font-family: 'Georgia', serif; font-style: italic; color: #ffccff; text-align: center; padding: 20px; border-left: 5px solid #00ffff; background: rgba(0,0,50,0.5); border-radius: 15px; box-shadow: 0 0 20px rgba(0,255,255,0.3);">
-    <p><strong>"I don't predict the future — I engineer it with data, one neuron at a time."</strong></p>
-    <footer>— <em>Me, from the 5th Dimension</em></footer>
-  </blockquote>
+<!-- Relic Vault -->
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" height="180" alt="Relics"/>
+</p>
 
-  <!-- Wormhole Connect -->
-  <div align="center" style="margin: 40px 0;">
-    <a href="https://linkedin.com/in/yourprofile">
-      <img src="https://img.shields.io/badge/🌌%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000033" alt="LinkedIn"/>
-    </a>
-    <a href="https://twitter.com/yourhandle">
-      <img src="https://img.shields.io/badge/🪐%20X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1a0033" alt="X"/>
-    </a>
-    <a href="mailto:your.email@cosmos.ai">
-      <img src="https://img.shields.io/badge/📡%20Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white&labelColor=330033" alt="Email"/>
-    </a>
-  </div>
+<br/>
 
-  <!-- Aurora Footer -->
-  <picture>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,10,12,14,16,18,20,22,24,26,28,30&height=200&section=footer&animation=twinkling&fontColor=ffffff" alt="Cosmic Footer">
-  </picture>
+<!-- Void Whisper -->
+<blockquote style="font-family:'Courier New',monospace;font-style:italic;color:#00ff7f;padding:20px;border-left:5px solid #8a2be2;background:rgba(50,0,100,.6);border-radius:15px;box-shadow:0 0 25px rgba(138,43,226,.4);max-width:700px;margin:30px auto;animation:whisper 4s infinite;">
+  <p><strong>“In the quantum void, data doesn't flow — it devours realities, one qubit at a time.”</strong></p>
+  <footer>— <em>Echo from the Event Horizon</em></footer>
+</blockquote>
 
-  <!-- Visitor Counter from Another Galaxy -->
-  <div align="center">
-    <img src="https://visitcount.itsvg.in/api?id=Ayush-Das-9&icon=8&color=10" alt="Visitors"/>
-  </div>
+<br/>
 
-  <!-- Hidden Easter Egg -->
-  <details>
-    <summary style="cursor: pointer; color: #ff00ff; text-align: center; font-weight: bold;">🔮 Click for Secret Transmission</summary>
-    <p style="text-align: center; color: #00ff00; font-family: monospace;">
-      > DECRYPTED: You are now part of the Data Collective. Resistance is futile. Prepare for assimilation. 🤖
-    </p>
-  </details>
+<!-- Rift Portals -->
+<p>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/RIFT%20LINK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a1a" alt="LinkedIn"/></a>  
+  <a href="https://x.com/yourhandle"><img src="https://img.shields.io/badge/VOID%20X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a2e" alt="X"/></a>  
+  <a href="mailto:your.email@void.ai"><img src="https://img.shields.io/badge/QUANTUM%20MAIL-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=16213e" alt="Email"/></a>
+</p>
+
+<br/>
+
+<!-- Echo Counter -->
+<p>
+  <img src="https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=5&color=6" alt="Echoes"/>
+</p>
+
+<br/>
+
+<!-- Singularity Gate -->
+<details>
+  <summary style="cursor:pointer;color:#ff1493;text-align:center;font-weight:bold;animation:pulse 1s infinite;">
+    🌀 Enter the Singularity
+  </summary>
+  <p style="text-align:center;color:#ffd700;font-family:'Courier New',monospace;animation:code 2s infinite;">
+    > INITIATING SINGULARITY: Data streams converging... You are the anomaly. Merge or be unraveled. 🌀
+  </p>
+</details>
+
+<br/>
+
+<!-- Flux Footer -->
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10,12,14,16,18,20&height=200&section=footer&animation=twinkling&fontColor=fff" alt="Footer">
+</picture>
+
 </div>
 
-<!-- Animated CSS Magic -->
+<!-- Quantum Animations -->
 <style>
-  @keyframes pulse {
-    0% { text-shadow: 0 0 20px rgba(255,255,255,0.8), 0 0 40px #00ffff, 0 0 60px #ff00ff; }
-    50% { text-shadow: 0 0 30px rgba(255,255,255,1), 0 0 60px #00ffff, 0 0 90px #ff00ff; }
-    100% { text-shadow: 0 0 20px rgba(255,255,255,0.8), 0 0 40px #00ffff, 0 0 60px #ff00ff; }
+  @keyframes quantum{
+    0%{text-shadow:0 0 25px rgba(255,255,255,.9),0 0 50px #8a2be2,0 0 75px #ff1493;}
+    33%{text-shadow:0 0 35px rgba(255,255,255,1),0 0 70px #ff1493,0 0 100px #00ff7f;}
+    66%{text-shadow:0 0 25px rgba(255,255,255,.9),0 0 50px #00ff7f,0 0 75px #ffd700;}
+    100%{text-shadow:0 0 25px rgba(255,255,255,.9),0 0 50px #8a2be2,0 0 75px #ff1493;}
   }
-  img:hover { transform: scale(1.1); transition: 0.3s; filter: drop-shadow(0 0 10px #00ffff); }
-  pre { animation: glow 2s ease-in-out infinite alternate; }
-  @keyframes glow { from { text-shadow: 0 0 5px #ff00ff; } to { text-shadow: 0 0 20px #ff00ff, 0 0 30px #ff00ff; } }
+  @keyframes echo{0%{opacity:0.7;}50%{opacity:1;}100%{opacity:0.7;}}
+  @keyframes whisper{0%{transform:scale(1);}50%{transform:scale(1.05);}100%{transform:scale(1);}}
+  @keyframes code{0%{background:rgba(0,0,0,0.8);}50%{background:rgba(255,215,0,0.2);}100%{background:rgba(0,0,0,0.8);}}
+  img:hover{transform:rotate(360deg) scale(1.2);transition:.5s;filter:drop-shadow(0 0 15px #8a2be2);}
 </style>
-
-<!-- Sound of the Universe (Silent but Implied) -->
-<!--
-  🎵 Now playing: Interstellar Data Symphony in C♯ Minor
--->
