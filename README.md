@@ -22,14 +22,14 @@
 
   <!-- Cosmic Status -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&show_icons=true&count_private=true&include_all_commits=true&custom_title=🌌%20Cosmic%20Code%20Constellation&border_radius=15">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=gruvbox&hide_border=true&bg_color=282828&title_color=fabd2f&text_color=ebdbb2&icon_color=a89984&show_icons=true&count_private=true&include_all_commits=true&custom_title=🌌%20Cosmic%20Code%20Constellation&border_radius=15" height="195" alt="stats graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ayush-Das-9&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&show_icons=true&count_private=true&include_all_commits=true&custom_title=🌌%20Cosmic%20Code%20Constellation&border_radius=15">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Das-9&theme=gruvbox&hide_border=true&bg_color=282828&title_color=fabd2f&text_color=ebdbb2&icon_color=a89984&show_icons=true&count_private=true&include_all_commits=true&custom_title=🌌%20Cosmic%20Code%20Constellation&border_radius=15" height="195" alt="stats graph" />
   </picture>
 
   <!-- Streak in Another Dimension -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff80bf&currStreakNum=8b949e&sideNums=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&border_radius=15">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=gruvbox&hide_border=true&background=282828&stroke=7c6f64&ring=fabd2f&fire=fe8019&currStreakNum=ebdbb2&sideNums=a89984&currStreakLabel=fabd2f&sideLabels=ebdbb2&dates=928374&border_radius=15" height="195" alt="streak graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Das-9&theme=react&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff80bf&currStreakNum=8b949e&sideNums=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&border_radius=15">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Das-9&theme=gruvbox&hide_border=true&background=282828&stroke=7c6f64&ring=fabd2f&fire=fe8019&currStreakNum=ebdbb2&sideNums=a89984&currStreakLabel=fabd2f&sideLabels=ebdbb2&dates=928374&border_radius=15" height="195" alt="streak graph" />
   </picture>
 
   <br/>
@@ -71,7 +71,7 @@
 
   <!-- Cosmic Trophy Case -->
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=true&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" height="180"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Ayush-Das-9&theme=onestar&no-frame=true&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" height="180"/>
   </div>
 
   <!-- Nebula Quote -->
@@ -100,7 +100,7 @@
 
   <!-- Visitor Counter from Another Galaxy -->
   <div align="center">
-    <img src="https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=8&color=10" alt="Visitors"/>
+    <img src="https://visitcount.itsvg.in/api?id=Ayush-Das-9&icon=8&color=10" alt="Visitors"/>
   </div>
 
   <!-- Hidden Easter Egg -->
